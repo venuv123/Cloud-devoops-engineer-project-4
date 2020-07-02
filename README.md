@@ -1,9 +1,9 @@
 # Operationalize Machine Learning Microservice API.
 
+[![<ORG_NAME>](https://circleci.com/gh/maxgherman/udacity-microservices.svg?style=svg)](https://circleci.com/gh/maxgherman/udacity-microservices)
 
-
-
-
+Deploying an elastic and fault-tolerant Machine Learning inference API using Kubernetes. Configure this
+microservice to be highly available by using Kubernetes best practices. Validate the design by load testing the service and verifying the application architecture performs as designed.
 
 ## Project Overview
 
