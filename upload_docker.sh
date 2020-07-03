@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath="maxgherman/udacity-devops"
+dockerpath="venuv123/Cloud-devoops-engineer-project-5" 
 
 # Step 2:  
 # Authenticate & tag
