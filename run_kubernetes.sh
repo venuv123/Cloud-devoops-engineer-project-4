@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath="maxgherman/udacity-devops"
+dockerpath="venuv123/Cloud-devoops-engineer-project-5" 
 
 # Step 2
 # Run the Docker Hub container with kubernetes
